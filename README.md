@@ -5,12 +5,11 @@
 
 例如微信的搜索转场动画如下：
 
-![UISearchBar转场动画](https://github.com/RogerHXJ/UISearchBarCustom/blob/master/图片/UISearchBar转场动画.gif)
-
+<div align=left><img width="375" height="667" src="https://github.com/RogerHXJ/UISearchBarCustom/blob/master/图片/UISearchBar转场动画.gif"/></div>
 ## UISearchBar个性化思路
 项目中多处用到UISearchBar，并且UI效果基本一样，所以直接继承UISearchBar创建一个EPTSearchBar。最后要达到的UI效果如下图所示：
 
-![EPTSearchBar效果图](https://github.com/RogerHXJ/UISearchBarCustom/blob/master/图片/UISearchBar自定义效果图.PNG)
+<div align=left><img width="375" height="667" src="https://github.com/RogerHXJ/UISearchBarCustom/blob/master/图片/UISearchBar自定义效果图.PNG"/></div>
 ## 个性化步骤
 1. 继承UISearchBar创建EPTSearchBar
 2. 重写initWithFrame:方法，详细的个性化见代码注释
